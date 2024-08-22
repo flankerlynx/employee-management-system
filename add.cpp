@@ -77,7 +77,7 @@ void Employee_management::menu()
 			case 6:
 				system("cls");
 				cout << "\n\n\n\n\t--------------------------------------------------------------------------"<<endl;
-				cout << "\n\t\t\t>> EMPLOYEE MANAGEMENT SYSTEM - By Parth Developer <<";
+				cout << "\n\t\t\t>> EMPLOYEE MANAGEMENT SYSTEM <<";
 				cout << "\n\n\t--------------------------------------------------------------------------"<<endl;
 				for(int i=10; i>=1; i--) {
 					cout << i << " Second remaining...\r" << flush;
